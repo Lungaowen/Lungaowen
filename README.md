@@ -1,7 +1,7 @@
-<img src="https://github.com/Lungaowen/Lungaowen/blob/main/banner.png" alt="Banner" style="width:100%;"/>
+
 
 <h1 align="center">👋 Hey there, I'm Lunga Owen Mtsweni</h1>
-<h3 align="center">💻 Passionate Software Developer | 🌐 Computer Science Student | 🔍 Part-Time Opportunity Seeker</h3>
+<h3 align="center">💻 Passionate Software Developer | 🌐 Computer Science Student </h3>
 
 ---
 
